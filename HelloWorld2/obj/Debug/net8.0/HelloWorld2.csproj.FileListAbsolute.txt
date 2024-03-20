@@ -1,0 +1,14 @@
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.exe
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.deps.json
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.runtimeconfig.json
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.dll
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.pdb
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.AssemblyInfoInputs.cache
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.AssemblyInfo.cs
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.dll
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\refint\HelloWorld2.dll
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.pdb
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.genruntimeconfig.cache
+C:\cc3-1b-pacalsojj\HelloWorld2\HelloWorld2\obj\Debug\net8.0\ref\HelloWorld2.dll
